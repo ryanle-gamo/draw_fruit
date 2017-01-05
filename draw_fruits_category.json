@@ -1,0 +1,670 @@
+{
+    "categories":[{
+                  "category_id": "89",
+                  "category_name": "Retro Cars",
+                  "category_thumbnail": "89.png",
+                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip01/master/",
+                  "animes": [{
+                             "anime_id": "1",
+                             "anime_name": "Jaguar E-Type 1961",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "2",
+                             "anime_name": "Cadilac Eldorado 1959",
+                             "anime_step":12
+                             },
+                             {
+                             "anime_id": "3",
+                             "anime_name": "Volkswagen Beetle 1960-1969",
+                             "anime_step":9
+                             },
+                             {
+                             "anime_id": "4",
+                             "anime_name": "Mini-Cooper Classic",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "5",
+                             "anime_name": "Ford Roadster 1933",
+                             "anime_step":9
+                             },
+                             {
+                             "anime_id": "6",
+                             "anime_name": "Lincoln Zephyr 1936-1940",
+                             "anime_step":10
+                             },
+                             {
+                             "anime_id": "7",
+                             "anime_name": "Mercedes-Benz 190SL 1961",
+                             "anime_step":9
+                             },
+                             {
+                             "anime_id": "8",
+                             "anime_name": "Aston Martin DBR1",
+                             "anime_step":10
+                             },
+                             {
+                             "anime_id": "9",
+                             "anime_name": "Ford Mustang 1967",
+                             "anime_step":9
+                             },
+                             {
+                             "anime_id": "10",
+                             "anime_name": "Lancia Stratos",
+                             "anime_step":9
+                             },
+                             {
+                             "anime_id": "11",
+                             "anime_name": "Porsche 912",
+                             "anime_step":10
+                             },
+                             {
+                             "anime_id": "12",
+                             "anime_name": "Rolls-Royce Phantom 1933",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "13",
+                             "anime_name": "Volkswagen Van",
+                             "anime_step":10
+                             }
+                             ]
+                  },
+                  {
+                  "category_id": "23",
+                  "category_name": "Super Cars",
+                  "category_thumbnail": "23.png",
+                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip01/master/",
+                  "animes": [{
+                             "anime_id": "1",
+                             "anime_name": "Bugatti Veyron",
+                             "anime_step":16
+                             },
+                             {
+                             "anime_id": "2",
+                             "anime_name": "Ford GT",
+                             "anime_step":19
+                             },
+                             {
+                             "anime_id": "3",
+                             "anime_name": "Maserati MC12",
+                             "anime_step":20
+                             },
+                             {
+                             "anime_id": "4",
+                             "anime_name": "McLaren MP4-12C white",
+                             "anime_step":19
+                             },
+                             {
+                             "anime_id": "5",
+                             "anime_name": "Ariel Atom 500",
+                             "anime_step":22
+                             },
+                             {
+                             "anime_id": "6",
+                             "anime_name": "Koenigsegg CC8S",
+                             "anime_step":21
+                             },
+                             {
+                             "anime_id": "7",
+                             "anime_name": "SSC Ultimate Aero XT",
+                             "anime_step":15
+                             },
+                             {
+                             "anime_id": "8",
+                             "anime_name": "Lamborghini Diablo",
+                             "anime_step":18
+                             },
+                             {
+                             "anime_id": "9",
+                             "anime_name": "Pagani Zonda C12",
+                             "anime_step":20
+                             },
+                             {
+                             "anime_id": "10",
+                             "anime_name": "BAC Mono",
+                             "anime_step":19
+                             },
+                             {
+                             "anime_id": "11",
+                             "anime_name": "Koenigsegg Agera R",
+                             "anime_step":19
+                             },
+                             {
+                             "anime_id": "12",
+                             "anime_name": "Lamborghini Aventador",
+                             "anime_step":15
+                             },
+                             {
+                             "anime_id": "13",
+                             "anime_name": "Spyker C8",
+                             "anime_step":17
+                             },
+                             {
+                             "anime_id": "14",
+                             "anime_name": "Mercedes-Benz SLR McLaren",
+                             "anime_step":20
+                             },
+                             {
+                             "anime_id": "15",
+                             "anime_name": "Noble M600",
+                             "anime_step":17
+                             },
+                             {
+                             "anime_id": "16",
+                             "anime_name": "Ferrari F12",
+                             "anime_step":14
+                             },
+                             {
+                             "anime_id": "17",
+                             "anime_name": "Ferrari LaFerrari",
+                             "anime_step":14
+                             },
+                             {
+                             "anime_id": "18",
+                             "anime_name": "Ferrari 488 GTB",
+                             "anime_step":9
+                             },
+                             {
+                             "anime_id": "19",
+                             "anime_name": "Hennessy Venom F5",
+                             "anime_step":10
+                             },
+                             {
+                             "anime_id": "20",
+                             "anime_name": "Lamborghini 5-95 Zagato",
+                             "anime_step":10
+                             },
+                             {
+                             "anime_id": "21",
+                             "anime_name": "McLaren P1 GTR",
+                             "anime_step":10
+                             },
+                             {
+                             "anime_id": "22",
+                             "anime_name": "Radical SR8 RSX",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "23",
+                             "anime_name": "Trion Nemesis",
+                             "anime_step":8
+                             },
+                             {
+                             "anime_id": "24",
+                             "anime_name": "Vencer Santhe",
+                             "anime_step":9
+                             },
+                             {
+                             "anime_id": "25",
+                             "anime_name": "Zenvo ST1",
+                             "anime_step":9
+                             }
+                             ]
+                  },
+                  {
+                  "category_id": "174",
+                  "category_name": "Hot Wheels",
+                  "category_thumbnail": "174.png",
+                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip01/master/",
+                  "animes": [{
+                             "anime_id": "1",
+                             "anime_name": "4Ward Speed",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "2",
+                             "anime_name": "Batmobile",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "3",
+                             "anime_name": "Bone Shaker",
+                             "anime_step":12
+                             },
+                             {
+                             "anime_id": "4",
+                             "anime_name": "Camaro 68",
+                             "anime_step":10
+                             },
+                             {
+                             "anime_id": "5",
+                             "anime_name": "Cloud Cutter",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "6",
+                             "anime_name": "Cool One",
+                             "anime_step":12
+                             },
+                             {
+                             "anime_id": "7",
+                             "anime_name": "Dragon Blaster",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "8",
+                             "anime_name": "Ford Mustang",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "9",
+                             "anime_name": "Hemi Barracuda",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "10",
+                             "anime_name": "Lamborghini",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "11",
+                             "anime_name": "Nerve Hammer",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "12",
+                             "anime_name": "Power Pistons",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "13",
+                             "anime_name": "Scorpedo",
+                             "anime_step":12
+                             },
+                             {
+                             "anime_id": "14",
+                             "anime_name": "Sharkcruiser",
+                             "anime_step":13
+                             },
+                             {
+                             "anime_id": "15",
+                             "anime_name": "Super Stinger",
+                             "anime_step":12
+                             },
+                             {
+                             "anime_id": "16",
+                             "anime_name": "Twin Mill",
+                             "anime_step":12
+                             }
+                             ]
+                  },
+                  {
+                  "category_id": "141",
+                  "category_name": "Transformer",
+                  "category_thumbnail": "141.png",
+                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip01/master/",
+                  "animes": [{
+                             "anime_id": "1",
+                             "anime_name": "Optimus Prime",
+                             "anime_step":14
+                             },
+                             {
+                             "anime_id": "2",
+                             "anime_name": "Bumblebee",
+                             "anime_step":12
+                             },
+                             {
+                             "anime_id": "3",
+                             "anime_name": "Galvatron",
+                             "anime_step":13
+                             },
+                             {
+                             "anime_id": "4",
+                             "anime_name": "Grimelock",
+                             "anime_step":12
+                             },
+                             {
+                             "anime_id": "5",
+                             "anime_name": "Hotrod",
+                             "anime_step":12
+                             },
+                             {
+                             "anime_id": "6",
+                             "anime_name": "Ironhead",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "7",
+                             "anime_name": "Jazz",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "8",
+                             "anime_name": "Jetfire",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "9",
+                             "anime_name": "Rodimus Prime",
+                             "anime_step":10
+                             },
+                             {
+                             "anime_id": "10",
+                             "anime_name": "Shockwave",
+                             "anime_step":10
+                             },
+                             {
+                             "anime_id": "11",
+                             "anime_name": "Soundwave",
+                             "anime_step":12
+                             },
+                             {
+                             "anime_id": "12",
+                             "anime_name": "Starscream",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "13",
+                             "anime_name": "Unicron",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "14",
+                             "anime_name": "Megatron",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "15",
+                             "anime_name": "Sunstreaker",
+                             "anime_step":13
+                             },
+                             {
+                             "anime_id": "16",
+                             "anime_name": "Arcee",
+                             "anime_step":24
+                             },
+                             {
+                             "anime_id": "17",
+                             "anime_name": "Dinobot",
+                             "anime_step":20
+                             },
+                             {
+                             "anime_id": "18",
+                             "anime_name": "Prime Prowl",
+                             "anime_step":18
+                             },
+                             {
+                             "anime_id": "19",
+                             "anime_name": "Barricade",
+                             "anime_step":22
+                             },
+                             {
+                             "anime_id": "20",
+                             "anime_name": "Blur",
+                             "anime_step":17
+                             }
+                             ]
+                  },
+                  {
+                  "category_id": "24",
+                  "category_name": "Tanks",
+                  "category_thumbnail": "24.png",
+                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip01/master/",
+                  "animes": [{
+                             "anime_id": "1",
+                             "anime_name": "Light Tank MC-1",
+                             "anime_step":21
+                             },
+                             {
+                             "anime_id": "2",
+                             "anime_name": "Light Tank A-20",
+                             "anime_step":26
+                             },
+                             {
+                             "anime_id": "3",
+                             "anime_name": "Medium Tank T-34",
+                             "anime_step":21
+                             },
+                             {
+                             "anime_id": "4",
+                             "anime_name": "Medium Tank T-44",
+                             "anime_step":24
+                             },
+                             {
+                             "anime_id": "5",
+                             "anime_name": "Heavy Tank KV-2",
+                             "anime_step":22
+                             },
+                             {
+                             "anime_id": "6",
+                             "anime_name": "Heavy Tank IS-3",
+                             "anime_step":22
+                             },
+                             {
+                             "anime_id": "7",
+                             "anime_name": "Assault gun SU-85",
+                             "anime_step":20
+                             },
+                             {
+                             "anime_id": "8",
+                             "anime_name": "Assault gun SU-152",
+                             "anime_step":22
+                             },
+                             {
+                             "anime_id": "9",
+                             "anime_name": "Light Tank VK 1602 Leopard",
+                             "anime_step":23
+                             },
+                             {
+                             "anime_id": "10",
+                             "anime_name": "Light Tank PzKpfw II",
+                             "anime_step":24
+                             },
+                             {
+                             "anime_id": "11",
+                             "anime_name": "Medium Tank PzKpfw III",
+                             "anime_step":29
+                             },
+                             {
+                             "anime_id": "12",
+                             "anime_name": "Medium Tank Panter",
+                             "anime_step":25
+                             },
+                             {
+                             "anime_id": "13",
+                             "anime_name": "Heavy Tank Tiger I",
+                             "anime_step":22
+                             },
+                             {
+                             "anime_id": "14",
+                             "anime_name": "Heavy Tank Maus",
+                             "anime_step":22
+                             },
+                             {
+                             "anime_id": "15",
+                             "anime_name": "Assault gun StuG III",
+                             "anime_step":23
+                             },
+                             {
+                             "anime_id": "16",
+                             "anime_name": "Medium Tank T69",
+                             "anime_step":15
+                             },
+                             {
+                             "anime_id": "17",
+                             "anime_name": "Heavy Tank T57/58",
+                             "anime_step":14
+                             },
+                             {
+                             "anime_id": "18",
+                             "anime_name": "Assault Gun T95",
+                             "anime_step":15
+                             },
+                             {
+                             "anime_id": "19",
+                             "anime_name": "Medium Tank M46 Patton",
+                             "anime_step":15
+                             },
+                             {
+                             "anime_id": "20",
+                             "anime_name": "Assault Gun M7 HMC Priest",
+                             "anime_step":12
+                             },
+                             {
+                             "anime_id": "21",
+                             "anime_name": "Assault Gun Birch Gun",
+                             "anime_step":12
+                             },
+                             {
+                             "anime_id": "22",
+                             "anime_name": "Assault Gun FV3805",
+                             "anime_step":13
+                             },
+                             {
+                             "anime_id": "23",
+                             "anime_name": "Assault Gun AT39 Tortoise",
+                             "anime_step":13
+                             },
+                             {
+                             "anime_id": "24",
+                             "anime_name": "Assault Gun AT8",
+                             "anime_step":13
+                             },
+                             {
+                             "anime_id": "25",
+                             "anime_name": "Assault Gun AT-15A",
+                             "anime_step":15
+                             }
+                             ]
+                  },
+                  {
+                  "category_id": "60",
+                  "category_name": "Spaceship",
+                  "category_thumbnail": "60.png",
+                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip02/master/",
+                  "animes": [{
+                             "anime_id": "1",
+                             "anime_name": "USS Enterprise Star Trek",
+                             "anime_step":9
+                             },
+                             {
+                             "anime_id": "2",
+                             "anime_name": "Millennium Falcon Star Wars",
+                             "anime_step":7
+                             },
+                             {
+                             "anime_id": "3",
+                             "anime_name": "X-Wing Star Wars",
+                             "anime_step":7
+                             },
+                             {
+                             "anime_id": "4",
+                             "anime_name": "Darth Vader TIE fighter Star Wars",
+                             "anime_step":7
+                             },
+                             {
+                             "anime_id": "5",
+                             "anime_name": "Death star Star Wars",
+                             "anime_step":8
+                             },
+                             {
+                             "anime_id": "6",
+                             "anime_name": "Imperial Star Destroyer Star Wars",
+                             "anime_step":8
+                             },
+                             {
+                             "anime_id": "7",
+                             "anime_name": "Serenity Firefly",
+                             "anime_step":8
+                             },
+                             {
+                             "anime_id": "8",
+                             "anime_name": "Roger Young Starship Troopers",
+                             "anime_step":8
+                             },
+                             {
+                             "anime_id": "9",
+                             "anime_name": "Voyager Star Trek",
+                             "anime_step":7
+                             },
+                             {
+                             "anime_id": "10",
+                             "anime_name": "Battlestar Galactica",
+                             "anime_step":8
+                             },
+                             {
+                             "anime_id": "11",
+                             "anime_name": "White Star Babylon 5",
+                             "anime_step":8
+                             },
+                             {
+                             "anime_id": "12",
+                             "anime_name": "Slave 1 Star Wars",
+                             "anime_step":7
+                             },
+                             {
+                             "anime_id": "13",
+                             "anime_name": "Bubbleship Oblivion",
+                             "anime_step":8
+                             },
+                             {
+                             "anime_id": "14",
+                             "anime_name": "Prometheus Aliens",
+                             "anime_step":8
+                             },
+                             {
+                             "anime_id": "15",
+                             "anime_name": "Battleship Yamato",
+                             "anime_step":6
+                             },
+                             {
+                             "anime_id": "16",
+                             "anime_name": "Thunderbird 3 Thunderbirds",
+                             "anime_step":7
+                             },
+                             {
+                             "anime_id": "17",
+                             "anime_name": "Destiny Stargate Universe",
+                             "anime_step":7
+                             },
+                             {
+                             "anime_id": "18",
+                             "anime_name": "Rifter EVE online",
+                             "anime_step":10
+                             },
+                             {
+                             "anime_id": "19",
+                             "anime_name": "Delta Pod Planet of the Apes",
+                             "anime_step":7
+                             },
+                             {
+                             "anime_id": "20",
+                             "anime_name": "Buggati shuttle Elysium",
+                             "anime_step":6
+                             },
+                             {
+                             "anime_id": "21",
+                             "anime_name": "Arwing Star Fox",
+                             "anime_step":7
+                             },
+                             {
+                             "anime_id": "22",
+                             "anime_name": "Protoss Carrier StarCraft",
+                             "anime_step":10
+                             },
+                             {
+                             "anime_id": "23",
+                             "anime_name": "Normandy Mass Effect",
+                             "anime_step":8
+                             },
+                             {
+                             "anime_id": "24",
+                             "anime_name": "Gunstar Last Starfighter",
+                             "anime_step":11
+                             },
+                             {
+                             "anime_id": "25",
+                             "anime_name": "Narn Heavy Cruiser Babylon 5",
+                             "anime_step":10
+                             },
+                             {
+                             "anime_id": "26",
+                             "anime_name": "Starfury Babylon 5",
+                             "anime_step":9
+                             }
+                             ]
+                  }
+                  ]
+}
