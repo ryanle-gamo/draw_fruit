@@ -3,7 +3,7 @@
     "is_admob_in_grid":true,
     "is_admob_in_grid_enable":true,
     "is_admob":true,
-    "version":"ALPHA",
+    "version":"PRODUCTION",
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/draw_fruit/master/draw_fruits_category.json",
     "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/draw_fruit/master/draw_fruits_category_alpha.json",
     "admob_banner_id":"ca-app-pub-4322965078780162/6832945137",
